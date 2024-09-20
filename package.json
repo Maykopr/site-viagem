@@ -1,0 +1,16 @@
+{
+  "name": "web-viagem",
+  "version": "1.0.0",
+  "description": "Este Web site possui quatro páginas que podem ser facilmente atualizadas para inúmeras outras utilidades. O design foi inspirado em um layout já pronto e atende a outros perfis melhor que o setor de viagem. Algumas técnicas foram utilizadas não por questões de design mas puramente para testes e estudo.",
+  "main": "menu-navbar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mayko Costa",
+  "license": "MIT",
+  "devDependencies": {
+    "@eslint/js": "^9.11.0",
+    "eslint": "^9.11.0",
+    "globals": "^15.9.0"
+  }
+}
